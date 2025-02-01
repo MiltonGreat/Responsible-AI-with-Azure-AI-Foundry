@@ -70,4 +70,4 @@ Use Azure AI Foundry's tools to experiment with default filters:
 
 ### References
 
-https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/7-exercise-content-filters
+Exercise: [Microsoft Training Module](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/7-exercise-content-filters)
